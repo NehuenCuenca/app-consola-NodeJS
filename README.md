@@ -11,3 +11,8 @@ Options:
   -l, --listar   Muestra o no, la tabla en consola    [boolean] [default: false]
   -h, --hasta    Es el limite de la tabla de multiplicar  [number] [default: 10]
 ```
+
+Si no sabes como usar la app, abrís el cmd, vas al directorio del proyecto y
+escribis "node app.js --base 20 --listar --hasta 12", por ejemplo.
+Si queres ver los comandos q tiene la app: node app.js --help.
+
