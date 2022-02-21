@@ -1,6 +1,5 @@
 const FS = require('fs'); //FileSystem
 const colors = require('colors'); //Colores para la consola
-const path = require('path');
 
 
 const crearTablaMultiplicarTxt = async( base=5, listar=false, hasta=10 ) =>{
